@@ -15,6 +15,14 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBOutlet weak var emailTF: UITextField!
+    @IBOutlet weak var passTF: UITextField!
+    
+    @IBAction func login(_ sender: Any) {
+        if(emailTF.text == "login" && passTF.text == "pass"){
+            
+        }
+    }
+    
 }
 
