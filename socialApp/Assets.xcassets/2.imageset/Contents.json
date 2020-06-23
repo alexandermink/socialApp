@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "red_panda_grass_leaves_branches_56117_2048x1152.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
